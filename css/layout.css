@@ -27,7 +27,7 @@
     clear: both;
     margin-bottom: 2%;
   }
-  
+
   .row:after {
     content: ".";
     display: block;
